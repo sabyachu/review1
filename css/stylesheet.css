@@ -2,3 +2,6 @@
   background-color: #ffe0bd;
   margin: 12px;
 }
+.col-md-4 {
+  float: left;
+}
