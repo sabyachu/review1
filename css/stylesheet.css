@@ -1,5 +1,5 @@
 .header-section{
-  background-color: #0099FF;
+  background-color: #ffe5e5;
   padding-top: 10px;
   padding-left: 50px;
   padding-right: 50px;
@@ -11,4 +11,15 @@
 
 .designation{
   color: #181818;
+}
+
+.footer-section{
+  background-color: #ffe5e5;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.link{
+  padding-left: 50px;
+  padding-right: 50px;
 }
