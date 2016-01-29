@@ -1,7 +1,14 @@
-.body {
-  background-color: #ffe0bd;
-  margin: 12px;
+.header-section{
+  background-color: #0099FF;
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
-.col-md-4 {
-  float: left;
+
+.name{
+  color: green;
+}
+
+.designation{
+  color: #181818;
 }
